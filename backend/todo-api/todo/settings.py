@@ -40,7 +40,7 @@ INSTALLED_APPS = [
 
     #3rd party
     'rest_framework',
-    'crosheaders'
+    'corsheaders',
 
     #Local
     'todoapp.apps.TodoappConfig',
